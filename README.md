@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Heyt Gala </h1>
-<h2>A passionate Full Stack Developer from USA, Who's currently pursuing a Master's Degree in Computer Science at Illinois Institute of Technology.</h2>
+<h3 align="center">A passionate Full Stack Developer from USA, Who's currently pursuing a Master's Degree in Computer Science at Illinois Institute of Technology.</h2>
 
  * 🔭 I’m currently learning about AutoGen, Rasa & other GenAI models
  * 💼 I’m currently looking for full time software engineering roles
