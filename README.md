@@ -1,4 +1,4 @@
-## Hi 👋 I'm Heyt Gala
+##                                                                                 Hi 👋 I'm Heyt Gala
 
  * 🔭 I’m currently learning about AutoGen, Rasa & other GenAI models
  *  💼 I’m currently looking for full time software engineering roles
