@@ -1,9 +1,11 @@
-##                                                                                 Hi 👋 I'm Heyt Gala
+<h1 align="center"> Hi 👋 I'm Heyt Gala </h1>
 
  * 🔭 I’m currently learning about AutoGen, Rasa & other GenAI models
  *  💼 I’m currently looking for full time software engineering roles
  *  📫 How to reach me heytgala26@gmail.com
 
+#### Connect with me:
+<a href="https://www.linkedin.com/in/heyt-gala/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulmathur16" height="30" width="40" style="max-width: 100%;"></a>
 
 - 
 <!--
