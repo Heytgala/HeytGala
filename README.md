@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hi 👋 I'm Heyt Gala
 
-- 🔭 I’m currently learning about AutoGen, Rasa 
+ * 🔭 I’m currently learning about AutoGen, Rasa & other GenAI models
+ *  💼 I’m currently looking for full time software engineering roles
+ *  📫 How to reach me heytgala26@gmail.com
+
+
+- 
 <!--
 **Heytgala/HeytGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
