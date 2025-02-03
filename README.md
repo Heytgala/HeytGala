@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋 I'm Heyt Gala </h1>
 <h3 align="center">A passionate Full Stack Developer who is currently pursuing a Master's Degree in Computer Science at Illinois Institute of Technology.</h3>
 
- * 🔭 I’m currently learning about Next.js & AWS Cloud
- * 💼 I’m currently looking for full time software engineering roles
+ * 🔭 I’m currently learning about Next.js, TypeScript & AWS Cloud
+ * 💼 I’m currently looking for full time full stack / software engineering roles
  * 📫 How to reach me heytgala26@gmail.com
  * 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1kf1owD_IdXMlDZcp9mIj9wz8RGed3osh/view?usp=sharing)
 
