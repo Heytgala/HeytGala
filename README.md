@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Heyt Gala </h1>
 <h3 align="center">A passionate Full Stack Developer who is currently pursuing a Master's Degree in Computer Science at Illinois Institute of Technology.</h3>
 
- * 🔭 I’m currently learning about Next.js, TypeScript & AWS Cloud
+ * 🔭 I’m currently learning about GraphQL, Apollo, TypeScript & AWS Cloud
  * 💼 I’m currently looking for full time full stack / software engineering roles
  * 📫 How to reach me heytgala26@gmail.com
  * 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1kf1owD_IdXMlDZcp9mIj9wz8RGed3osh/view?usp=sharing)
@@ -11,6 +11,7 @@
 
 #### <h3> Languages and Tools: </h3>
 <p align="left">
+  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
