@@ -36,6 +36,10 @@
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heytgala&show_icons=true&locale=en&layout=compact" alt="Heytgala" /></p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Heytgala"><img src="https://github-profile-trophy.vercel.app/?username=Heytgala" alt="vijay0772" /></a> </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Heytgala&theme=highcontrast)](https://github-readme-streak-stats.herokuapp.com/?user=Heytgala&theme=highcontrast)
 <!--
 **Heytgala/HeytGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
