@@ -4,7 +4,7 @@
  * 🔭 I’m currently learning about GraphQL, Apollo, TypeScript & AWS Cloud
  * 💼 I’m currently looking for full time full stack / software engineering roles
  * 📫 How to reach me heytgala26@gmail.com
- * 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1kf1owD_IdXMlDZcp9mIj9wz8RGed3osh/view?usp=sharing)
+ * 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1hxGUR3s6HqAvFDJH8wReD7u7W3gpi3MG/view?usp=sharing)
 
 #### <h3> Connect with me: </h3>
 <a href="https://www.linkedin.com/in/heyt-gala/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulmathur16" height="30" width="40" style="max-width: 100%;"></a>
