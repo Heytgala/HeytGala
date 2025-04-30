@@ -11,7 +11,7 @@
 
 #### <h3> 🛠️ Languages and Tools: </h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dotnet,react,nodejs,expressjs,nextjs,vite,html,css,graphql,mysql,mongo,postgres,postman,fastapi,flutter,dart,androidstudio,linux,firebase,elasticsearch,aws,gcp,bitbucket,docker,git,prisma,opencv" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,dotnet,react,nodejs,expressjs,nextjs,vite,html,css,graphql,mysql,mongo,postgres,postman,fastapi,flutter,dart,androidstudio,linux,firebase,elasticsearch,aws,gcp,bitbucket,docker,git,prisma,opencv,supabase" />
 </p>
 
 #### <h3> 📊 Github Stats: </h3>
@@ -24,8 +24,11 @@
 #### <h3> 🏆 Github Trophy: </h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Heytgala"><img src="https://github-profile-trophy.vercel.app/?username=Heytgala" alt="vijay0772" /></a> </p>
 
+<!--
 #### <h3> Github Streak: </h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Heytgala&theme=highcontrast)](https://github-readme-streak-stats.herokuapp.com/?user=Heytgala&theme=highcontrast)
+-->
+
 <!--
 **Heytgala/HeytGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
