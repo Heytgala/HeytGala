@@ -22,7 +22,7 @@
 </p>
 
 #### <h3> 🏆 Github Trophy: </h3>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Heytgala"><img src="https://github-profile-trophy.vercel.app/?username=Heytgala" alt="vijay0772" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Heytgala"><img src="https://github-profile-trophy.vercel.app/?username=Heytgala" alt="HeytGala" /></a> </p>
 
 <!--
 #### <h3> Github Streak: </h3>
